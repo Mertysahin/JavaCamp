@@ -4,7 +4,7 @@ Kurs:
 Eğitmen:
 ![image](https://user-images.githubusercontent.com/26578414/117241149-20b57b00-ae3b-11eb-859f-3111de0366e8.png)
 
-İş sınıfı olarak tanımladığım class:
+İş sınıfı olarak tanımladığım class ve 2 metod:
 ![image](https://user-images.githubusercontent.com/26578414/117241187-3b87ef80-ae3b-11eb-83d4-f125c59a74b6.png)
 
 Main:
