@@ -1,0 +1,13 @@
+package arraysDemo;
+
+public class Main {
+
+	public static void main(String[] args) 
+	{
+	String ogrenci = "Engin";
+	String ogrenci2 = "Derin";
+	String ogrenci3 = "Salih";
+	String ogrenci4 = "Ahmet";	
+	}
+
+}

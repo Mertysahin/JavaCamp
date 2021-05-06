@@ -1,0 +1,26 @@
+package miniProjeAsalSayi;
+
+public class Main {
+
+	public static void main(String[] args) 
+	{
+		int number = 1;
+		boolean asal = true;		
+		for(int i=2; i<number; i++)
+		{
+			
+			if(number % i==0)
+			{
+				asal=false;
+				break;
+			
+			}
+			
+			
+		}
+		if(asal==true && number <=1){System.out.println("Asaldýr");}
+		else {System.out.println("Asal deðildir");}
+		
+	}
+
+}

@@ -1,0 +1,30 @@
+package sesliHarfler;
+
+public class Main {
+
+	public static void main(String[] args)
+	{
+		char harf = 'E';
+		switch(harf) 
+		{
+		case 'A':
+			System.out.println("Kalýn sesli harf");
+
+		case 'I':
+			System.out.println("Kalýn sesli harf");
+
+		case 'O':
+			System.out.println("Kalýn sesli harf");
+
+		case 'U':
+			System.out.println("Kalýn sesli harf");
+			break;
+			default:
+				System.out.println("Ýnce sesli harf");
+
+		}
+		
+
+	}
+
+}

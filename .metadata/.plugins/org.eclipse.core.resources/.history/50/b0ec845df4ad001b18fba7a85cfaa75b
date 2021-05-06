@@ -1,0 +1,21 @@
+package sayiBulma;
+
+public class Main {
+
+	public static void main(String[] args)
+	{
+		int[] sayilar = {1,2,5,7,9,0};
+		int aranacak = 0;
+		for(int gecici : sayilar)
+		{
+			if(aranacak == gecici)
+			{
+				System.out.println("SAYI ÝCÝNDE VARDIR");
+				break;
+			}
+			
+		}
+		
+	}
+
+}

@@ -1,0 +1,17 @@
+package stringsDemo;
+
+public class main {
+
+	public static void main(String[] args)
+	{
+		String mesaj = "Bugün hava çok güzel.";
+		System.out.println(mesaj);
+		
+		System.out.println("Eleman sayýsý : " + mesaj.length());
+		System.out.println("5.elman : " + mesaj.charAt(4)); //0.indexten baþlýyor 
+		System.out.println(mesaj.concat(" Yaþasýn!")); //birleþtirme
+		System.out.println(mesaj.startsWith("A")); //B ile baþlýyorsa true döndürür;
+		System.out.println(mesaj.endsWith("."));
+	}
+
+}

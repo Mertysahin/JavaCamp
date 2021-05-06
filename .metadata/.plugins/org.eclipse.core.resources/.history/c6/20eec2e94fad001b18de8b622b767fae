@@ -1,0 +1,12 @@
+package recapDemo2;
+
+public class Main {
+
+	public static void main(String[] args) 
+	{
+
+		double[] myListe = new double[4];
+		
+	}
+
+}
