@@ -1,1 +1,1 @@
-
+Kamp süresince yapılan örnekleri içerir.
