@@ -1,1 +1,1 @@
-Kamp süresince yapılan örnekleri içerir.
+Engin Demiroğ Yotube videoları örnekleri.
